@@ -1,0 +1,3 @@
+rootProject.name = 'PatientTracker2'
+
+include ':app'
